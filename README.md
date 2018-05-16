@@ -17,4 +17,4 @@ $ gulp build --env prod
 ```
 
 ----------------
-更多功能 通过gulp[插件扩展](https://www.npmjs.com/search?q=keywords:gulpplugin){:target="_blank"}
+更多功能 通过gulp[插件扩展](https://www.npmjs.com/search?q=keywords:gulpplugin)
